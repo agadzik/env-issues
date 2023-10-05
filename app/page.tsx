@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 export default function Home() {
-  const secret = process.env["gadzik-secret"];
+  const secret = process.env.gadzik_secret;
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
