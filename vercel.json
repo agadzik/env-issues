@@ -1,0 +1,5 @@
+{
+  "env": {
+    "GADZIK_SECRET": "@gadzik_secret"
+  }
+}
