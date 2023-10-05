@@ -1,5 +1,12 @@
 {
   "env": {
+    "GADZIK_PUBLIC": "public value",
     "GADZIK_SECRET": "@gadzik_secret"
+  },
+  "build": {
+    "env": {
+      "GADZIK_PUBLIC": "public value",
+      "GADZIK_SECRET": "@gadzik_secret"
+    }
   }
 }
